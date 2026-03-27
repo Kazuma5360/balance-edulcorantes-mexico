@@ -62,4 +62,10 @@ balance_edulcorantes_portafolio.xlsx
 **Nota:** `total_de_edulcorantes` fue excluido del análisis por ser una variable derivada.
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia [MIT](LICENSE). Siéntete libre de usarlo, adaptarlo y compartirlo, solo menciona la autoría original.
+Este proyecto está bajo la licencia [BSD 3-Clause](LICENSE). Siéntete libre de usarlo, modificarlo y distribuirlo, siempre que:
+
+1. Se mantenga el aviso de copyright original
+2. Se incluya la lista completa de condiciones
+3. No se use el nombre de los contribuyentes para promocionar productos derivados sin permiso
+
+Para más detalles, consulta el archivo [LICENSE](LICENSE).
