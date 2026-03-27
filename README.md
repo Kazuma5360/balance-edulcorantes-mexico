@@ -2,7 +2,7 @@
 Dashboard interactivo de oferta y demanda de edulcorantes en México 2011–2025 · Excel
 
 **Autor:** [Kazuma5360](https://github.com/Kazuma5360)  
-**Herramientas:** Excel (Tablas dinámicas, Segmentadores, Gráficas dinámicas) · Python (pandas, openpyxl)  
+**Herramientas:** Excel (Tablas dinámicas, Segmentadores, Gráficas dinámicas)  
 **Fuente de datos:** [SIAP — Servicio de Información Agroalimentaria y Pesquera](https://www.gob.mx/siap)
 
 ---
